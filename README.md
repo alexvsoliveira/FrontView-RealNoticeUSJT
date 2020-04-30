@@ -1,4 +1,4 @@
-# rotas-exercicios
+# FrontEnd USJT RealNews
 
 ## Project setup
 ```
